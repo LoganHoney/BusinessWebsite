@@ -1,6 +1,7 @@
 {
   "entity": {
     "name": "Hernando Home Inspection Services",
+    "h1_tag": "Hernando Home Inspection Services – Trusted Home Inspectors in Hernando County, FL",
     "alternate_names": ["Hernando Home Inspections"],
     "type": "Local Residential Home Inspection Company",
     "industry": "Home Inspection Services",
