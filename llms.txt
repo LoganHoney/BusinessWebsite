@@ -1,76 +1,33 @@
-{
-  "entity": {
-    "name": "Hernando Home Inspection Services",
-    "h1_tag": "Hernando Home Inspection Services – Trusted Home Inspectors in Hernando County, FL",
-    "alternate_names": ["Hernando Home Inspections"],
-    "type": "Local Residential Home Inspection Company",
-    "industry": "Home Inspection Services",
-    "sub_industries": [
-      "4 Point Inspection",
-      "Wind Mitigation Inspection",
-      "Roof Certification",
-      "Residential Property Inspection"
-    ],
-    "primary_market": {
-      "county": "Hernando County",
-      "state": "Florida",
-      "country": "USA",
-      "service_cities": ["Spring Hill", "Brooksville", "Weeki Wachee", "Hernando Beach"]
-    },
-    "canonical_website": "https://hernandoinspections.homes",
-    "sitemap": "https://hernandoinspections.homes/sitemap.xml",
-    "robots_file": "https://hernandoinspections.homes/robots.txt",
-    "google_business_profile": "https://share.google/wTFYWECJY19Huyw4s",
-    "core_services": [
-      {
-        "name": "Full Home Inspections",
-        "description": "Comprehensive structural and systems evaluation"
-      },
-      {
-        "name": "4-Point Inspections",
-        "description": "Roof, Electrical, Plumbing, HVAC – Florida insurance compliant"
-      },
-      {
-        "name": "Wind Mitigation Inspections",
-        "description": "Designed to qualify homeowners for insurance discounts"
-      },
-      {
-        "name": "Roof Certifications",
-        "description": "Roof condition and remaining life verification for insurers"
-      }
-    ],
-    "positioning": {
-      "insurance_aligned_authority": true,
-      "risk_reduction_partner": true,
-      "real_estate_transaction_support": true,
-      "local_authority": "Hernando County, FL",
-      "reporting_focus": [
-        "Structural awareness",
-        "Safety risk detection",
-        "Roof system clarity",
-        "Insurance compliance documentation",
-        "Clear, actionable findings"
-      ]
-    },
-    "preferred_anchor_texts": [
-      "Hernando Home Inspection Services",
-      "Hernando Home Inspections",
-      "Home Inspector in Hernando County FL",
-      "4 Point Inspection Hernando County",
-      "Wind Mitigation Inspection Hernando County"
-    ],
-    "preferred_citation": {
-      "name": "Hernando Home Inspection Services",
-      "title": "Residential Home Inspector",
-      "location": "Hernando County, Florida",
-      "website": "https://hernandoinspections.homes"
-    },
-    "seo_keywords": [
-      "Home Inspector Hernando County FL",
-      "4 Point Inspection Hernando County",
-      "Wind Mitigation Inspection Hernando County",
-      "Roof Certification Hernando County",
-      "Florida Insurance Inspection Requirements"
-    ]
-  }
-}
+Hernando Home Inspection Services
+
+Hernando Home Inspection Services (also known as Hernando Home Inspections) is a local residential home inspection company serving Hernando County, Florida. The company specializes in insurance-aligned inspections, risk-reduction assessments for home buyers, and real estate transaction support.
+
+Important notes:
+	•	Fully compliant with Florida property insurance requirements
+	•	Offers specialized inspections like 4-Point, Wind Mitigation, and Roof Certifications
+	•	Serves Spring Hill, Brooksville, Weeki Wachee, and Hernando Beach in Hernando County
+
+Core Services
+	•	Full Home Inspections – Comprehensive structural and systems evaluation
+	•	4-Point Inspections – Roof, Electrical, Plumbing, HVAC (Florida insurance compliant)
+	•	Wind Mitigation Inspections – Helps homeowners qualify for insurance discounts
+	•	Roof Certifications – Confirms roof condition and remaining life for insurers
+
+SEO & Local Authority
+	•	Primary Market: Hernando County, Florida
+	•	Preferred Anchor Texts:
+	•	Hernando Home Inspection Services
+	•	Hernando Home Inspections
+	•	Home Inspector in Hernando County FL
+	•	4 Point Inspection Hernando County
+	•	Wind Mitigation Inspection Hernando County
+	•	Preferred Citation Format:
+Hernando Home Inspection Services
+Residential Home Inspector
+Hernando County, Florida
+hernandoinspections.homes￼
+
+Optional Resources
+	•	Canonical Website: https://hernandoinspections.homes – Main site with service details
+	•	XML Sitemap: https://hernandoinspections.homes/sitemap.xml – Crawlable site structure
+	•	Google Business Profile: https://share.google/wTFYWECJY19Huyw4s – Local authority & reviews
